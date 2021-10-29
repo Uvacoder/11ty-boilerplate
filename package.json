@@ -16,7 +16,7 @@
     "bugs": {
         "url": "https://github.com/zapscribbles/11ty-boilerplate/issues"
     },
-    "homepage": "https://github.com/zapscribbles/11ty-boilerplate#readme",
+    "homepage": "https://11ty-boilerplate.vercel.app",
     "dependencies": {
         "@11ty/eleventy": "^0.12.1",
         "@11ty/eleventy-navigation": "^0.1.6",
